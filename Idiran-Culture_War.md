@@ -2,7 +2,7 @@
 title: Idiran-Culture War
 description: A war that happened between The Culture and Idirans 
 published: true
-date: 2023-02-12T13:58:43.187Z
+date: 2023-02-12T14:00:53.644Z
 tags: culture, event, war, idiran
 editor: markdown
 dateCreated: 2023-02-04T15:21:47.704Z
@@ -25,7 +25,7 @@ Contrary to Culture expectations, the Homomda joined the war in a limited capaci
 
 The Culture fell back during the early stages. The Idirans found it difficult to locate and attack the distant nodes of Culture war production, and were forced to subdue the often uncooperative lesser civilizations abandoned by the Culture's retreat. Several war-irrelevant Culture [Orbital](/Orbital) were attacked, some instances resulting in several billion deaths, but these strikes only stretched the Idiran military further.
 
-The key Culture combatants during this time were the General Contact Units. The GCUs were grossly outnumbered but superior field technology made them individually superior. GCUs bore the brunt of the fighting for the first four years of the war.
+The key Culture combatants during this time were the [General Contact Vehicle](/General_Contact_Vehicle). The GCUs were grossly outnumbered but superior field technology made them individually superior. GCUs bore the brunt of the fighting for the first four years of the war.
 
 At the end of the first stage, the Culture completed the changeover to war production to support a growing and augment a fleet of dedicated warships.
 
