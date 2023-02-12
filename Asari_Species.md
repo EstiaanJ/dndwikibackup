@@ -2,7 +2,7 @@
 title: Asari Species
 description: The asari, native to the planet Thessia, are often considered the most influential and respected sentient species in Culture
 published: true
-date: 2023-02-12T14:21:02.754Z
+date: 2023-02-12T14:21:30.067Z
 tags: species, culture, pan-human, playable_species, sentient, humanoid
 editor: markdown
 dateCreated: 2023-02-09T03:57:13.812Z
@@ -22,6 +22,6 @@ Asari resemble humans in terms of basic skeletal structure with five digits on e
 This similarity allows asari to wear human armor. A typical asari has a blue to purple complexion, though a teal complexion is possible albeit seemingly rare. Some Asari have facial markings, which are unique colored patterns that vary for every asari. Some of these facial markings resemble the eyebrows that humans have, but the asari do not think of the markings as such themselves.
 
 # See Also
-[Asari_Civ](/Asari_Civ)
+[Asari Civ](/Asari_Civ)
 
 
