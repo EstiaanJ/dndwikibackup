@@ -2,7 +2,7 @@
 title: Galactic Financial Guild
 description: A guild that represents the interests of interstellar finacial instituitions, and helps facilitate cooperation and trade.
 published: true
-date: 2023-02-12T15:00:55.298Z
+date: 2023-02-12T15:00:58.489Z
 tags: guild
 editor: markdown
 dateCreated: 2023-02-12T14:55:20.930Z

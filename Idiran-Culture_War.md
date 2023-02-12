@@ -2,7 +2,7 @@
 title: Idiran-Culture War
 description: A war that happened between The Culture and Idirans 
 published: true
-date: 2023-02-12T14:01:46.522Z
+date: 2023-02-12T14:01:49.774Z
 tags: culture, event, war, idiran
 editor: markdown
 dateCreated: 2023-02-04T15:21:47.704Z

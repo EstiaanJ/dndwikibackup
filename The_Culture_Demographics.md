@@ -2,7 +2,7 @@
 title: The Culture Demographics
 description: 
 published: true
-date: 2023-02-12T12:06:23.153Z
+date: 2023-02-12T12:06:26.200Z
 tags: culture
 editor: markdown
 dateCreated: 2023-02-12T12:06:23.153Z

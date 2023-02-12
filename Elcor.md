@@ -2,7 +2,7 @@
 title: Elcor
 description: The elcor are a GRF species native to the high-gravity world Dekuuna.
 published: true
-date: 2023-02-12T11:42:37.520Z
+date: 2023-02-12T11:42:40.709Z
 tags: species, grf
 editor: markdown
 dateCreated: 2023-02-12T11:35:19.758Z

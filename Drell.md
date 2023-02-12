@@ -2,7 +2,7 @@
 title: Drell
 description: The drell are a reptile-like race that were rescued from their dying homeworld by the hanar following first contact between the two
 published: true
-date: 2023-02-12T11:59:59.918Z
+date: 2023-02-12T12:00:03.656Z
 tags: species, grf
 editor: markdown
 dateCreated: 2023-02-10T02:07:11.266Z

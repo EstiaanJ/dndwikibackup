@@ -2,7 +2,7 @@
 title: Biotics
 description: Biotics is the ability of some lifeforms to create mass effect fieldsor other similar effects
 published: true
-date: 2023-02-12T14:18:20.376Z
+date: 2023-02-12T14:18:23.396Z
 tags: physics, mass-effect
 editor: markdown
 dateCreated: 2023-02-12T14:18:20.376Z

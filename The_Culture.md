@@ -2,7 +2,7 @@
 title: The Culture
 description: An intergalactic civlization
 published: true
-date: 2023-02-12T11:53:30.062Z
+date: 2023-02-12T11:53:33.305Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T10:51:13.282Z
