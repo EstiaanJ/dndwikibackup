@@ -1,28 +1,27 @@
 ---
 title: The Culture
-description: A intergalactic civlization
+description: An intergalactic civlization
 published: true
-date: 2023-02-10T02:24:39.856Z
+date: 2023-02-12T11:50:27.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T10:51:13.282Z
 ---
 
-The Culture is a major involved polity in the Milky Way galaxy. It is an informal association of sapients unified by shared values and a hedonistically-oriented lifestyle enabled by technology. The Culture relies heavily on Minds for administration and planning.
+The Culture is a major [Involved](/Involved) polity in the [Milky Way](/The_Milky_Way) galaxy. It is an informal association of sapients unified by shared values and a hedonistically-oriented lifestyle enabled by technology. The Culture relies heavily on [Mind](/Mind) for administration and planning.
 
 # History
-
-The Culture is a loose federation founded by space-faring elements of several pan-human species in the 76th century BCE. They seek mutual support to maintain their independence from their mature origins. A conference was held approximately 70 years prior to 8023, according to the Koweyn calendar, with representatives from the Buhdren Federality and the Gzilt civilization in attendance. The Gzilt ultimately declined to join the Culture and the proposed name for the new polity was "the Aliens".
+The Culture is a loose federation founded by space-faring elements of several [Pan-Human](/Pan-Human) species in the 76th century BCE. They seek mutual support to maintain their independence from their mature origins. A conference was held approximately 70 years prior to 8023, according to the Koweyn calendar, with representatives from the Buhdren Federality and the Gzilt civilization in attendance. The [Glitz](/Glitz) ultimately declined to join the Culture and the proposed name for the new polity was "the Aliens".
 
 ## Territory
 
-The Culture's territory encompasses its member ships and habitats, which are spread throughout the galaxy. There is no contiguous Culture volume as its elements are either mobile or dispersed. Planets make up a minor part of the Culture's holdings as orbitals provide more living space for the investment. Terraforming planets is considered undesirable due to its ecological impact.
+The Culture's territory encompasses its member ships and [habitats](/Orbital), which are spread throughout the galaxy. There is no contiguous Culture volume as its elements are either mobile or dispersed. Planets make up a minor part of the Culture's holdings as orbitals provide more living space for the investment. Terraforming planets is considered undesirable due to its ecological impact.
 
 ## Society
 
 ### Conventions and Behaviour
 
-The Culture operates without formal laws and behavior is regulated by social norms and conventions. Poor behavior is discouraged through the threat of ridicule and ostracization by one's peers. Insulting "punishments" can include not being called by one's chosen name. Breaking taboos can result in pariah status, but not eviction from the Culture.
+The Culture operates without formal [Culture Law](/Culture_Law) and behavior is regulated by social norms and conventions. Poor behavior is discouraged through the threat of ridicule and ostracization by one's peers. Insulting "punishments" can include not being called by one's chosen name. Breaking taboos can result in pariah status, but not eviction from the Culture.
 
 Making an unbidden in-depth scan of someone's brain without permission is considered taboo and equivalent to mind reading. Minds view this as a way of honoring their biological creators.
 
