@@ -2,7 +2,7 @@
 title: Hanar
 description: The hanar are a species resembling Earth's jellyfish and are one of the few non-bipedal GRF races.
 published: true
-date: 2023-02-12T11:31:03.324Z
+date: 2023-02-12T11:32:06.786Z
 tags: species, galactic-federation
 editor: markdown
 dateCreated: 2023-02-10T03:58:13.376Z
