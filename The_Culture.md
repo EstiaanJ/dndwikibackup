@@ -2,7 +2,7 @@
 title: The Culture
 description: An intergalactic civlization
 published: true
-date: 2023-02-12T11:50:27.391Z
+date: 2023-02-12T11:53:30.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T10:51:13.282Z
@@ -23,7 +23,7 @@ The Culture's territory encompasses its member ships and [habitats](/Orbital), w
 
 The Culture operates without formal [Culture Law](/Culture_Law) and behavior is regulated by social norms and conventions. Poor behavior is discouraged through the threat of ridicule and ostracization by one's peers. Insulting "punishments" can include not being called by one's chosen name. Breaking taboos can result in pariah status, but not eviction from the Culture.
 
-Making an unbidden in-depth scan of someone's brain without permission is considered taboo and equivalent to mind reading. Minds view this as a way of honoring their biological creators.
+Making an unbidden in-depth scan of someone's brain without permission is considered taboo and equivalent to mind reading. [Minds](/Mind) view this as a way of honoring their biological creators.
 
 Murder, defined as causing total brain death or personality loss, is the most serious taboo in the Culture. Murderers are offered therapy and may be assigned a "slap-drone" to prevent future occurrences. Preventative assignment of slap-drones is also sanctioned.
 
@@ -33,7 +33,7 @@ Important or eccentric ships may be assigned shadowing ships as a form of "slap-
 
 The Culture operates as a kind of social anarchy where citizens enjoy total individual freedom, within reason, while maintaining internal social cohesion. This results from the mutual dependence required for survival in the hostile environment of space. Space-faring habitats must often be self-sufficient, freeing them from the control of states or governing bodies and granting independence from each other. The hostile nature of space and the reliance on technology for life support makes the inhabitants aware of their dependence on each other.
 
-Politically, the Culture operates as a direct democracy where anyone can call for a referendum on almost any subject at any time. Deciding which citizens are eligible to vote can itself become a hotly debated issue, leading to multiple referenda about who can vote in on the main issue. The electorate can range from a small group to the entire Culture, but each citizen has one vote regardless of other factors.
+Politically, the Culture operates as a [Direct Democracy](/Direct_Democracy) where anyone can call for a referendum on almost any subject at any time. Deciding which citizens are eligible to vote can itself become a hotly debated issue, leading to multiple referenda about who can vote in on the main issue. The electorate can range from a small group to the entire Culture, but each citizen has one vote regardless of other factors.
 
 Executive power is typically held by Minds, which encompass superior intelligence and have technical control over infrastructure as they are embodied within ships and habitats. Minds require no outside assistance to run ships and habitats. The general population can communicate directly with local Minds at any time. Elected bodies representing the general population to Minds are also used as alternate avenues and as safeguards against potential widespread personal manipulation by Minds. On the whole, election to these bodies is honorary, although they serve a variety of ceremonial and liaison functions. Liaisons between Minds and the general population can also be chosen on a rota basis.
 
@@ -51,7 +51,7 @@ On the other hand, Minds and the ships they inhabit usually choose names that re
 
 The Culture's approach is to subtly guide other civilizations to reach their full potential, rather than through immigration or wholesale incorporation. This is often accomplished by secretly influencing politics and wars through the Contact section. When deemed appropriate, Contact manages the transition of individuals, groups, or even entire civilizations into the Culture.
 
-Contact is responsible for discovering, cataloging, investigating, evaluating, and, if deemed necessary, interacting with other civilizations. It handles almost all interactions between the Culture and non-Culture elements. It is a small part of the Culture, and most regular citizens are unlikely to ever encounter a Contact agent or ship.
+[Contact](/Contact) is responsible for discovering, cataloging, investigating, evaluating, and, if deemed necessary, interacting with other civilizations. It handles almost all interactions between the Culture and non-Culture elements. It is a small part of the Culture, and most regular citizens are unlikely to ever encounter a Contact agent or ship.
 
 Contact also manages the voluntary departure of citizens from the Culture to other civilizations, and interferes if necessary to remove any unfair technological or informational advantage that a departing citizen may have.
 
@@ -63,7 +63,7 @@ Money is not used and is regarded as unnecessary and inefficient for the purpose
 
 Manufacturing and maintenance are completely automated. "Work" and "labor" exist only as vehicles for personal fulfillment and enjoyment, and are more akin to hobbies.
 
-# Genetic Engineering
+# [Culture Genetics](/Culture_Genetics)
 
 Basically everyone born in The Culture carries the results of genetic manipulation in every cell of their body; it is arguably the most reliable signifier of Culture status. These genes come from a fad of genetic engineering the culture went through in its early days.
 
