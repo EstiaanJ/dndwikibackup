@@ -2,11 +2,15 @@
 title: Elcor
 description: The elcor are a GRF species native to the high-gravity world Dekuuna.
 published: true
-date: 2023-02-12T11:40:02.565Z
+date: 2023-02-12T11:42:37.520Z
 tags: species, grf
 editor: markdown
 dateCreated: 2023-02-12T11:35:19.758Z
 ---
+
+> This wiki page might have info that still relates to mass effect instead of the culture.
+{.is-info}
+
 
 The elcor are a GRF species native to the high-gravity world Dekuuna.
 They are massive creatures, standing on four muscular legs for increased stability. Elcor move slowly, an evolved response to an environment where a fall can be lethal. This has colored their psychology, making them deliberate and conservative
@@ -43,3 +47,16 @@ The elcor have a mnemonic saying for virus detection – "Happy Turians Treat Ra
 
 # Economy
 The elcor economy is small, only slightly larger than the Alliance's, but extremely well developed. They see no point to rushing things, and are fond of making thorough, century-long development plans. They don't need to trade for any resource—they have all they require to supply their own needs, and trade only in finished goods. Any attempt to embargo their space would be fruitless. 
+
+
+# Government
+The elcor government is known as the Courts of Dekuuna. The elcor follow the recommendations of their Elders, who spend years poring over ancient records of jurisprudence to determine the precedent that should be followed in any given situation. The Elders record closely argued and minutely detailed instructions on what course to follow in any theoretical crisis. These are filed away in huge libraries of data discs and are consulted when needed. This makes elcor policies very predictable, provided one has done a great deal of research. 
+
+# Military
+Because of their slow, conservative psyches, elcor are not suitable for making the spur-of-the-moment decisions necessary in combat situations. Instead, they rely on sophisticated VI combat systems. These war machines can choose between thousands of gambits developed and polished over centuries by elcor strategists.
+
+The slow speed and immense size of the elcor makes them easy targets. Fortunately, their durable hide allows them to shrug off most incoming fire. Elcor warriors don't carry small arms; their broad shoulders serve as a stable platform for the same size of weapons typically mounted on Alliance fighting vehicles. According to an elcor diplomat on the Citadel, elcor soldiers are called "living tanks" by their enemies, among other less flattering names.
+
+The elcor do not maintain a large fleet of military starships. This seems to be due to a combination of their conservative nature preventing hasty rushes to war, and their relatively-isolated and self-sufficient economy that would never encounter a trade dispute serious enough to threaten war over. They do have several cruisers and carriers at their disposal, though their real value is in troop transport.
+
+The Treaty of Farixen limits non-Council members of the Citadel to possessing only one dreadnought for every five that the turians possess, which, by 2183, would allow non-Council members to build up to seven dreadnoughts. It is not known how many dreadnoughts were built by the elcor military, or even if they expend the effort to build any at all. 
