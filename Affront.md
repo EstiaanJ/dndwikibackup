@@ -2,8 +2,8 @@
 title: Affront
 description: The Affront, a civlization. Also known as the Issorilians
 published: true
-date: 2023-02-10T02:32:26.536Z
-tags: issorilians, affront, civilization, involved
+date: 2023-02-12T14:25:46.276Z
+tags: issorilians, affront, civilization, involved, species, level_7_tech
 editor: markdown
 dateCreated: 2023-02-04T13:22:38.467Z
 ---
