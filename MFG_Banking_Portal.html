@@ -2,7 +2,7 @@
 title: MFG Portal
 description: Do your banking here
 published: true
-date: 2023-02-12T05:46:57.781Z
+date: 2023-02-12T08:47:01.573Z
 tags: non-wiki
 editor: code
 dateCreated: 2023-02-12T05:27:08.597Z
@@ -17,23 +17,3 @@ dateCreated: 2023-02-12T05:27:08.597Z
       <input type="text" id="deposit-amount" name="deposit-amount">
       <button type="button" id="deposit-button">Deposit</button>
 </form>
-<div id="response"></div>
-
-<script>
-  async function makeRequest() {
-    const response = await fetch('/deposit', {
-      method: 'POST',
-      body: JSON.stringify({ amount: 100 }),
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    });
-  
-    const data = await response.json();
-  
-    console.log(data);
-  }
-  
-  document.getElementById('deposit-button').addEventListener('click', makeRequest);
-
-</script>
