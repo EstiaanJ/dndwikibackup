@@ -2,7 +2,7 @@
 title: Affront
 description: The Affront, a civlization. Also known as the Issorilians
 published: true
-date: 2023-02-12T14:32:39.812Z
+date: 2023-02-12T14:33:36.495Z
 tags: issorilians, affront, civilization, involved, species, level_7_tech
 editor: markdown
 dateCreated: 2023-02-04T13:22:38.467Z
@@ -17,16 +17,16 @@ The Affront is an [Involved](/Involved) species from the moon Issorile. Once kno
 ## Early Encounters with [Involved](/Involved)
 The [Involved](/Involved) was aware of the Issorilians many centuries before [The Culture](/The_Culture) and sought some way to improve the Issorilians behaviour. The civilization was not only aggressively expansionist, but had culturally and socially ingrained traits for exploitation, sadism and brutality.
 
-Maintaining contact and relations was difficult since the Issorilians treated technologically more advanced civilizations with suspicion, and the reverse with contempt. Eventually, the [The_Culture](/The_Culture) found the Padressahl in the same volume of space as the Issorilians; the Padressahl had a similar evolutionary history and physiology as the Issorilians and so more likely to be accepted, but they also were closer to the [The_Culture](/The_Culture) in terms of moral outlook. [The_Culture](/The_Culture) appealed to the Padressahl to guide the Issorilians.
+Maintaining contact and relations was difficult since the Issorilians treated technologically more advanced civilizations with suspicion, and the reverse with contempt. Eventually, the [The Culture](/The_Culture) found the Padressahl in the same volume of space as the Issorilians; the Padressahl had a similar evolutionary history and physiology as the Issorilians and so more likely to be accepted, but they also were closer to the [The Culture](/The_Culture) in terms of moral outlook. [The Culture](/The_Culture) appealed to the Padressahl to guide the Issorilians.
 
 The Padressahl accepted. Early attempts were rocky. During one episode a Padressahl trade delegation was eaten, prompting them to nickname the Issorilians the Affront. Ironically, what was intended as insult was enthusiastically embraced by the Issorilians. They began calling themselves the Affront and refused to drop it even after relations with the Padressahl improved. The Padressahl continued their mentoring role for many centuries. With the Affront being handled, [The_Culture](/The_Culture) was free to engage with other nearby civilizations.
 
 ## [Padressahl](/Padressahl) Sublimation
-About a century or so after the [Idiran-Culture_War](/Idiran-Culture_War), the Padressahl suddenly sublimed. To their eternal joy, the Affront was suddenly freed to harass neighbouring civilizations, including those being shepherded by [The_Culture](/The_Culture) and others that no [Involved](/Involved) had seen fit to contact yet.
+About a century or so after the [Idiran-Culture_War](/Idiran-Culture_War), the Padressahl suddenly sublimed. To their eternal joy, the Affront was suddenly freed to harass neighbouring civilizations, including those being shepherded by [The Culture](/The_Culture) and others that no [Involved](/Involved) had seen fit to contact yet.
 
-Now [The_Culture](/The_Culture), and the other Involveds, had to deal with the Affront themselves. Eventually the Affront was convinced to abide, at least most of the time, by the generally accepted code of conduct for an [Involved](/Involved). This was after considerable effort, outright bribes, and allowing the Affront to "covertly" steal technology. The rate of expansion onto other planets was slowed when they received [Orbital](/Orbital) technology from the [The_Culture](/The_Culture), yet the Affront refused to accept pre-made [Orbital](/Orbital). [The_Culture](/The_Culture) hoped technology transfer would undermine some of the less desirable traits of Affronter culture and society.
+Now [The Culture](/The_Culture), and the other Involveds, had to deal with the Affront themselves. Eventually the Affront was convinced to abide, at least most of the time, by the generally accepted code of conduct for an [Involved](/Involved). This was after considerable effort, outright bribes, and allowing the Affront to "covertly" steal technology. The rate of expansion onto other planets was slowed when they received [Orbital](/Orbital) technology from the [The Culture](/The_Culture), yet the Affront refused to accept pre-made [Orbital](/Orbital). [The Culture](/The_Culture) hoped technology transfer would undermine some of the less desirable traits of Affronter culture and society.
 
-After the [Idiran-Culture_War](/Idiran-Culture_War), the Culture was not willing to entertain another massive military action to contain the Affront (even though it was at the height of its military power). Clandestine efforts to moderate their society did however continue, and after the Affront's warlike actions in [Excession](/Excession), the Culture started more direct steps in limiting their expansion and behaviour. 
+After the [Idiran-Culture War](/Idiran-Culture_War), the Culture was not willing to entertain another massive military action to contain the Affront (even though it was at the height of its military power). Clandestine efforts to moderate their society did however continue, and after the Affront's warlike actions in [Excession](/Excession), the Culture started more direct steps in limiting their expansion and behaviour. 
 
 
 # Society and Culture
