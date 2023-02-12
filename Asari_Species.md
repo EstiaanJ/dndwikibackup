@@ -2,7 +2,7 @@
 title: Asari Species
 description: The asari, native to the planet Thessia, are often considered the most influential and respected sentient species in Culture
 published: true
-date: 2023-02-12T14:11:28.620Z
+date: 2023-02-12T14:13:23.453Z
 tags: species, culture, pan-human, playable_species, sentient, humanoid
 editor: markdown
 dateCreated: 2023-02-09T03:57:13.812Z
@@ -21,12 +21,7 @@ Asari resemble humans in terms of basic skeletal structure with five digits on e
 
 This similarity allows asari to wear human armor. A typical asari has a blue to purple complexion, though a teal complexion is possible albeit seemingly rare. Some Asari have facial markings, which are unique colored patterns that vary for every asari. Some of these facial markings resemble the eyebrows that humans have, but the asari do not think of the markings as such themselves.
 
-
-# Government
-The asari governmental structure, known as the Asari Republics, is relatively broad; the asari came late to the notion of world government. For centuries, their homeworld of Thessia was dotted with loose confederacies of great republican cities. The closest Earth equivalent would be the ancient Mediterranean city-states. Since the asari culture values consensus and accommodation, there was little impetus to form larger principalities. Rather than hoard resources, the asari bartered freely. Rather than attack one another over differing philosophies, they sought to understand one another. Only in the information age did the city-states grow close; communication over the internet evolved into an "electronic democracy". 
-
-Aside from their Council representative, the asari have no politicians or elections, but a free-wheeling, all-inclusive legislature that citizens can participate in at will. Policy debates take place at all hours of the day, in official chat rooms and forums moderated by specially-programmed virtual intelligences. All aspects of policy are open to plebiscite at any time. In any given debate, the asari tend to lend the most credence to the opinions of any Matriarchs present, nearly always deferring to the experience of these millennia-old "wise women". 
-
-
+# See Also
+[Asari Civilization](/Asari_Civ)
 
 
