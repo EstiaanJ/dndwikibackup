@@ -2,7 +2,7 @@
 title: Promethean General Artificial Intelligence
 description: A hive mind AI created by the Prometheans
 published: true
-date: 2023-02-07T05:29:48.240Z
+date: 2023-02-12T14:34:45.355Z
 tags: civilization, species, ai, person
 editor: markdown
 dateCreated: 2023-02-04T16:05:22.542Z
