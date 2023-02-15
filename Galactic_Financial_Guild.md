@@ -2,7 +2,7 @@
 title: Galactic Financial Guild
 description: A guild that represents the interests of interstellar finacial instituitions, and helps facilitate cooperation and trade.
 published: true
-date: 2023-02-15T10:32:41.940Z
+date: 2023-02-15T10:33:14.684Z
 tags: guild
 editor: markdown
 dateCreated: 2023-02-12T14:55:20.930Z
@@ -19,6 +19,6 @@ Galactic Financial Guild Currency
 ## Symbols
 The GFGC uses the symbol ℣, for example ℣3.123
 The symbol for the sub currency, i.e. ℣ < 1 is ℭ, like ℭ365
-The symbol is a historical reference to the legacy currency from which the GFGC evolved from. That currency was the national currency of the [Vortai](/Vortai) Galactic Republic.
+The ℣ symbol is a historical reference to the legacy currency from which the GFGC evolved from. That currency was the national currency of the [Vortai](/Vortai) Galactic Republic.
 
 
