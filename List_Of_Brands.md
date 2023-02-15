@@ -2,7 +2,7 @@
 title: List Of Brands
 description: A list of intergalactic brands and brands local to Vortai and GRF space.
 published: true
-date: 2023-02-15T12:24:36.787Z
+date: 2023-02-15T12:32:15.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T12:24:36.787Z
@@ -16,6 +16,11 @@ Bullworth Construction
 Enegix
 
 # Financial
+
+# Freight, Logistics, Cargo
+GIT
+Cargox
+XGFreight
 
 # Industrial Materials
 Chemixal
@@ -70,6 +75,7 @@ Carbinol Chemicals
 idenitive
 ## Cybersecurity
 
+
 # Patterns
 Usyom
 Phtme
@@ -83,6 +89,8 @@ Tunsgate
 ## Private Prisons
 Amuin Group
 
+
+
 # Tech
 Lttrbx
 Baaup
@@ -91,6 +99,8 @@ Mech Cube
 Opengine
 Dotbotics
 Primtech Robotics
+
+
 # Trade
 
 # Transit
