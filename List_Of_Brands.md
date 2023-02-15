@@ -2,7 +2,7 @@
 title: List Of Brands
 description: A list of intergalactic brands and brands local to Vortai and GRF space.
 published: true
-date: 2023-02-15T13:34:02.337Z
+date: 2023-02-15T13:34:58.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T12:24:36.787Z
@@ -199,7 +199,7 @@ dateCreated: 2023-02-15T12:24:36.787Z
 | Sublime Luxe |     |
 | Cosmosphere |     |
 | Éclatant |     |
-| Avant-Gardeless |     |
+| [Avant Gardless](/Avant_Gardless) |     |
 | Deconstructed Chic |     |
 | Post-Populist |     |
 
