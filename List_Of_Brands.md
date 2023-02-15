@@ -2,8 +2,8 @@
 title: List Of Brands
 description: A list of intergalactic brands and brands local to Vortai and GRF space.
 published: true
-date: 2023-02-15T13:34:58.950Z
-tags: 
+date: 2023-02-15T13:40:49.825Z
+tags: list, brands
 editor: markdown
 dateCreated: 2023-02-15T12:24:36.787Z
 ---
