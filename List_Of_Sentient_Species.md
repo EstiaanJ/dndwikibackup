@@ -2,7 +2,7 @@
 title: List Of Sentient Species
 description: 
 published: true
-date: 2023-02-21T14:40:11.224Z
+date: 2023-02-21T14:46:30.143Z
 tags: list
 editor: markdown
 dateCreated: 2023-02-21T14:40:11.224Z
@@ -13,6 +13,7 @@ Affront
 Asari
 Batarians
 Chel
+Minds
 Dra'azon
 Drell
 Elcor
