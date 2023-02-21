@@ -2,7 +2,7 @@
 title: List Of Civilizations
 description: A non-exhaustive list of Civilizations
 published: true
-date: 2023-02-21T13:11:33.330Z
+date: 2023-02-21T13:11:50.176Z
 tags: list
 editor: markdown
 dateCreated: 2023-02-21T13:03:55.151Z
@@ -21,7 +21,7 @@ dateCreated: 2023-02-21T13:03:55.151Z
 [Idiran](/Idiran)
 [PGAI](/PGAI)
 [Qwani](/Qwani)
-[The_Culture](/The_Culture)
+[The Culture](/The_Culture)
 [Veniti Flotilla](/Veniti_Flotilla) * [2]
 [Vortai](/Vortai)
 [Z'Tran](/Z'Tran)
