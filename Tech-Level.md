@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T04:25:50.596Z
+date: 2023-02-21T11:53:05.255Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
@@ -40,3 +40,6 @@ High Level Involved
     Nauptre Reliquaria, 29th century CE[5]
     The Gzilt
     The Homomda
+    
+## Beyond Level 8
+In the known history of the galaxy only one civlization has significantly progressed into what might be considered a next level. The [Prometheans](/Promethean) had the ability to build [Mass Relay](/Mass_Relay) and no civilization since has figured out how to build mass relays or how to achieve negative mass using the mass effect, though many [Level 8](/Tech-Level) civilizations are capable of activating mass relays and creating other technology that use [Mass Effect Fields](/Mass_Effect_Field)
