@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T12:28:36.828Z
+date: 2023-02-21T12:33:08.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
@@ -77,10 +77,15 @@ Exotic and Meta Material mastery
 ***High Level Involved - Arbritary Energy Access***
 
 Energy Grid access marks a civilization as being level 8
-    The Culture, c. 14th century C
-    Nauptre Reliquaria, 29th century CE
-    The Gzilt
-    The Homomda
+
+All Level 8 Civilizations:
+- The Culture, c. 14th century C
+- The Gzilt (Sublimed)
+- The Homomda
+- Nauptre Reliquaria, 29th century CE
+- Vortai 
+
+
     
 ## Beyond Level 8 - Intergalactic Travel, Hyperspace Master & Sublimation
 In the known history of the galaxy only one civlization has significantly progressed into what might be considered a next level. The [Prometheans](/Promethean) had the ability to build [Mass Relay](/Mass_Relay) and no civilization since has figured out how to build mass relays or how to achieve negative mass using the mass effect, though many level 8 civilizations are capable of activating mass relays and creating other technology that use [Mass Effect Fields](/Mass_Effect_Field).
