@@ -2,7 +2,7 @@
 title: List Of Civilizations
 description: A non-exhaustive list of Civilizations
 published: true
-date: 2023-02-21T14:01:43.707Z
+date: 2023-02-21T14:17:54.399Z
 tags: list
 editor: markdown
 dateCreated: 2023-02-21T13:03:55.151Z
@@ -21,7 +21,7 @@ Affront
 [Dra'Azon](/Dra'Azon)
 Empire Of Azad
 GFCF
-[Galactic Republic Federation](/Galactic_Republic_Federation) [2]
+[Galactic Republic Conederation](/Galactic_Republic_Confederation) [2]
 Gzilt Sublime
 Homomda 
 [Idiran Empire](/Idiran)
