@@ -2,7 +2,7 @@
 title: List Of Civilizations
 description: A non-exhaustive list of Civilizations
 published: true
-date: 2023-02-21T13:22:50.087Z
+date: 2023-02-21T13:50:23.794Z
 tags: list
 editor: markdown
 dateCreated: 2023-02-21T13:03:55.151Z
@@ -13,10 +13,13 @@ dateCreated: 2023-02-21T13:03:55.151Z
 
 
 # List
+ˋKtik
+Affront
 [Asari Civilization](/Asari_Civ)
-[Chelgrian](/Chelgrian)
+[Chelgrian-Puen](/Chelgrian)
 [CETUS](/CETUS) * [1]
 [Dra'Azon](/Dra'Azon)
+Empire Of Azad
 [Galactic Republic Federation](/Galactic_Republic_Federation) [2]
 [Idiran](/Idiran)
 [PGAI](/PGAI)
