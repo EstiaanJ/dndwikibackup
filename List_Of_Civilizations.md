@@ -2,7 +2,7 @@
 title: List Of Civilizations
 description: A non-exhaustive list of Civilizations
 published: true
-date: 2023-02-21T13:55:42.706Z
+date: 2023-02-21T13:56:25.873Z
 tags: list
 editor: markdown
 dateCreated: 2023-02-21T13:03:55.151Z
@@ -29,7 +29,7 @@ Involucra
 Jhlupe
 Liseiden 
 Morthanveld
-Nariscene Feudal Matriarchy 
+[Nariscene Feudal Matriarchy ](/Nariscene_Feudal_Matriarchy) 
 Nauptre Reliquaria
 Oct
 Pavulean Republic 
