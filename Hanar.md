@@ -2,13 +2,13 @@
 title: Hanar
 description: The hanar are a species resembling Earth's jellyfish and are one of the few non-bipedal GRF races.
 published: true
-date: 2023-02-21T14:16:29.565Z
+date: 2023-02-21T14:16:46.665Z
 tags: species, galactic-federation
 editor: markdown
 dateCreated: 2023-02-10T03:58:13.376Z
 ---
 
-The hanar are a species resembling Earth's jellyfish and are one of the few non-bipedal [GRC](/Galactic_Republic_Federation) races. Hanar are known for their intense politeness when speaking, and their strong religious beliefs regarding the Protheans, whom they refer to as "the Enkindlers". 
+The hanar are a species resembling Earth's jellyfish and are one of the few non-bipedal [GRC](/Galactic_Republic_Confederation) races. Hanar are known for their intense politeness when speaking, and their strong religious beliefs regarding the Protheans, whom they refer to as "the Enkindlers". 
 
 ![codex_me_-_hanar.webp](/codex_me_-_hanar.webp)
 
