@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T12:17:57.373Z
+date: 2023-02-21T12:28:36.828Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
@@ -18,11 +18,30 @@ Can manufacture Steel
 ***Industrial***
 Industrialization and early computer technology
 
+Typical Technologies:
+- Steam Engines
+- Early Electricity
+- Internal Combustion Engines
+- Mechanical Computers
+
 ## Level 3
 ***Information Technology***
 No interstellar travel though space capable towards the end of level 3.
 Usually not aware of the Involved.
 Once a civlization begins expanding to new solar systems it signals that they are at the end of level 3 and the Inolved establish first contact. However a minority of civilizations are contacted by non-involved interstellar civilizations before they reach that point.
+
+Typical Technologies: 
+- Spacecraft
+- Aircarft
+- Fusion (Sometimes)
+- GAI (Sometimes)
+- Living Domain Robotics (Robots roughly the size of the species)
+- Computers
+	- Digital
+ 	- Quantum
+  - Analog - Light Computers
+- Early Laser weapons and Railgun Kinetic Weapons
+  
 
 ## Level 4
 ***Low Level Involved - Interstellar***
@@ -30,14 +49,24 @@ Interstellar capable (Warp drive or not) and communication with the Involved are
 Warp drives are the most common FTL mechanism for Level 4 Civs
 Towards the end of level 4 a civilization becomes Involved
 
+Typical Technologies:
+- Sublight Warp Drives
+- Cryogenic Hybrination
+- Early FTL
+- Anti-Matter Energy & Weapons
+- Fusion
+- Laser Weapons & Railgun Kineitics
+
 ## Level 5
 ***Low Level Involved - FTL***
 Subspace communication is a key marker of level 5
+Substrate computing
 
 
 ## Level 6
 ***Mid Level Involved - Fields***
 Field Technology is a key marker of Level 6
+Subspace Computing
 
 ## Level 7
 ***High Level Involved - Total Post Scarcity & Advanced FTL***
