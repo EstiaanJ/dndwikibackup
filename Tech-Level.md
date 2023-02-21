@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T12:06:33.213Z
+date: 2023-02-21T12:09:38.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
@@ -22,27 +22,31 @@ Usually not aware of the Involved.
 Once a civlization begins expanding to new solar systems it signals that they are at the end of level 3 and the Inolved establish first contact. However a minority of civilizations are contacted by non-involved interstellar civilizations before they reach that point.
 
 ## Level 4
+***Low Level Involved***
 Interstellar capable (Warp drive or not) and communication with the Involved are key markers of a early level 4 civ.
 Warp drives are the most common FTL mechanism for Level 4 Civs
 Towards the end of level 4 a civilization becomes Involved
 
 ## Level 5
+***Low Level Involved***
 Subspace communication is a key marker of level 5
 
 
 ## Level 6
-
+***Mid Level Involved***
+Field Technology is a key marker of Level 6
 
 ## Level 7
+***High Level Involved***
 Hyperspace propulsion & Molecular Assembly
 Exotic and Meta Material mastery
 
-## Level 8
-Energy Grid access marks a civilization as being level 8
+## Level 8 
+***High Level Involved***
 
-High Level Involved
-    The Culture, c. 14th century CE[5]
-    Nauptre Reliquaria, 29th century CE[5]
+Energy Grid access marks a civilization as being level 8
+    The Culture, c. 14th century C
+    Nauptre Reliquaria, 29th century CE
     The Gzilt
     The Homomda
     
