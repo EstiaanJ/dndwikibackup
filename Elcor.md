@@ -2,7 +2,7 @@
 title: Elcor
 description: The elcor are a GRF species native to the high-gravity world Dekuuna.
 published: true
-date: 2023-02-12T11:42:40.709Z
+date: 2023-02-21T14:16:05.494Z
 tags: species, grf
 editor: markdown
 dateCreated: 2023-02-12T11:35:19.758Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-12T11:35:19.758Z
 {.is-info}
 
 
-The elcor are a GRF species native to the high-gravity world Dekuuna.
+The elcor are a [Galactic Republic Confederation](/Galactic_Republic_Confederation) species native to the high-gravity world Dekuuna.
 They are massive creatures, standing on four muscular legs for increased stability. Elcor move slowly, an evolved response to an environment where a fall can be lethal. This has colored their psychology, making them deliberate and conservative
 
 ![codex_me_-_elcor.webp](/codex_me_-_elcor.webp)
@@ -30,7 +30,7 @@ The elephantine creatures can live for centuries although not to the same extent
 # History
 Prehistoric elcor traveled across Dekuuna in large tribal groups. These groups were likely led by the oldest and most experienced elcor. This may have later developed into the elcor culture of Elders, whose wisdom could keep the tribe safe provided they followed the correct guidance.
 
-According to their ambassador, the elcor were just making their first forays into space travel when the asari made contact with them. With their help, the elcor discovered the closest mass relay and, within a single lifetime, had established a regular trade route to the GRF. The elcor quickly became one of the more prominent species in Citadel space, though they still have to share an embassy with the volus. 
+According to their ambassador, the elcor were just making their first forays into space travel when the asari made contact with them. With their help, the elcor discovered the closest mass relay and, within a single lifetime, had established a regular trade route to the GRC. The elcor quickly became one of the more prominent species in Citadel space, though they still have to share an embassy with the volus. 
 
 # Culture
 Elcor usually prefer to live in orbitals designed for them or on their home world, due to their home world's high gravity. Possibly because of their size or evolution in the open air, the elcor find the necessary confines of space travel uncomfortable, and many modern elcor indeed prefer the open sky to the former. Evolving in a high-gravity environment where a fall could be lethal has made elcor psychology deeply cautious and conservative. Their culture is built on small, tight-knit groups, and their conservative nature means the elcor government is extremely stable. Despite this, they are always welcoming to outsiders. 
