@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T12:05:44.171Z
+date: 2023-02-21T12:06:33.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
@@ -55,4 +55,4 @@ Many Elder Civlizations are close to the end of level 8 and have access to techn
 # Notes and Considerations
 General Artificial Inteligence and Sentient Artificial Inteligence are notably missing as technological milestones because:
 - AI tends to come up at different times for different civlizations
-- Once AI arises there tends to be an exponential climb in technological progress and in particular AI technology. Growth is especially explosive when AI start imrpoving themselves more quickly than the creators could. See [GAI Explosion Filter](/GAI_Explosion_Filter). In practice this climb is more of a logistics curve (https://en.wikipedia.org/wiki/Logistic_function)
+- Once GAI arises there tends to be an exponential climb in technological progress and in particular AI technology. Growth is especially explosive when AI start imrpoving themselves more quickly than the creators could. See [GAI Explosion Filter](/GAI_Explosion_Filter). In practice this climb is more of a logistics curve (https://en.wikipedia.org/wiki/Logistic_function)
