@@ -2,7 +2,7 @@
 title: Civilization Technology Level
 description: A categorization of civilizations based on their level of technology as characterised by level 8 Civs.
 published: true
-date: 2023-02-21T12:33:08.374Z
+date: 2023-02-21T12:37:42.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T04:16:35.007Z
